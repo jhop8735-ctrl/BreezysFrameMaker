@@ -51,29 +51,6 @@ This will compile the script and copy the `.jar` automatically to:
 
 Requires JDK 20+. No need to install Gradle -- the wrapper handles it.
 
----
-
-## Profit Formula
-
-```
-12 Logs -> 12 Planks -> 3 Refined Planks -> 1 Frame
-
-Wood Type  | 12x Log Cost | Frame Price | Profit/Frame
----------------------------------------------------------
-Wooden     |      312 gp  |  44,000 gp  |  +43,688 gp
-Oak        |    7,092 gp  |  35,400 gp  |  +28,308 gp
-Willow     |    2,976 gp  |  38,500 gp  |  +35,524 gp
-Teak       |    1,260 gp  |  41,200 gp  |  +39,940 gp
-Maple      |    4,128 gp  |  25,800 gp  |  +21,672 gp
-Acadia     |   14,400 gp  |  48,900 gp  |  +34,500 gp
-Mahogany   |    5,460 gp  |  52,100 gp  |  +46,640 gp
-Yew        |    2,004 gp  |  58,400 gp  |  +56,396 gp
-Magic      |    4,560 gp  |  64,200 gp  |  +59,640 gp
-Elder      |  106,020 gp  | 192,500 gp  |  +86,480 gp
-```
-
-Prices are hardcoded based on GE values at time of release.
-Update `FALLBACK_FRAME_PRICES` and `LOG_COSTS` in the source if prices shift.
 
 ---
 
