@@ -10,7 +10,7 @@ Supports all wood tiers with full auto-detection and two operating modes.
 - **Two modes** -- Frames Only (refined planks preset) or Full Pipeline (logs preset)
 - **Auto-detects** wood type and inventory stage on startup
 - **All 10 wood tiers** -- Wooden, Oak, Willow, Teak, Maple, Acadia, Mahogany, Yew, Magic, Elder
-- **XP/hr and Profit/hr** tracking with accurate GE prices and log costs
+- **XP/hr 
 - **Random AFK breaks** toggle for a more human-like pattern
 - **Auto-logout** when supplies run out
 
